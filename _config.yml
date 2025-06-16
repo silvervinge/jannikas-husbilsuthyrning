@@ -19,7 +19,7 @@ locale                   : "sv-FI"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Hyr husbil på Åland"
 title_separator          : " | "
-subtitle                 : "Jannika Stenback" # site tagline that appears below site title in masthead
+subtitle                 : "– Jannika Stenback" # site tagline that appears below site title in masthead
 name                     : "Husbil uthyres – Fiat 2023 med automat och full komfort"
 description              : "Hyr vår topputrustade Fiat husbil – årsmodell 2023, automat, 4 bäddar, B-körkort"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
